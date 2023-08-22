@@ -1,7 +1,7 @@
 <h1 align="center"> Título </h1>
 
 <p align="center">
-Desafio Avançado do treinamento da Rocketseat para ensino de tecnologias WEB.
+Projeto do treinamento da Rocketseat para ensino de tecnologias WEB.
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto é um...
+O projeto é uma site de galeria de fotos para estudo de grid, aspect-ratio, filters, transform e animations(keyframes).
 
 ## 🔖 Layout
 
